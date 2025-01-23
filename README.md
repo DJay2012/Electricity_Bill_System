@@ -27,6 +27,7 @@ A **Java Swing**-based GUI application designed to manage and automate electrici
 
 ---
 
+
 ## About the Project:
 
 This project is a **desktop-based application** built using **Java Swing** for the GUI and **MySQL** for the database. The application is designed with multiple modules to handle specific functionalities, ensuring a clean and maintainable codebase.
