@@ -82,32 +82,32 @@ The project utilizes **JDBC (Java Database Connectivity)** to interact with the 
 Here are some screenshots to give you a glimpse of the application:
 
 ### 1. Login Screen:
-<img src="https://github.com/DJay2012/Electricity_Bill_System/ScreenShots/Login.JPG" width="400" height="300">
+<img src="ScreenShots/Login.JPG" width="400" height="300">
 
 ---
 
 ### 2. Main Page:
-<img src="https://github.com/DJay2012/Electricity_Bill_System/ScreenShots/Main.JPG" width="600" height="500">
+<img src="ScreenShots/Main.JPG" width="600" height="500">
 
 ---
 
 ### 3. Add Customer:
-<img src="https://github.com/DJay2012/Electricity_Bill_System/ScreenShots/AddC.JPG" width="500" height="500">
+<img src="ScreenShots/AddC.JPG" width="500" height="500">
 
 ---
 
 ### 4. Calculate Bill:
-<img src="https://github.com/DJay2012/Electricity_Bill_System/ScreenShots/CalculateBill.JPG" width="500" height="500">
+<img src="ScreenShots/CalculateBill.JPG" width="500" height="500">
 
 ---
 
 ### 5. Customer Details:
-<img src="https://github.com/DJay2012/Electricity_Bill_System/ScreenShots/Details.JPG" width="800" height="300">
+<img src="ScreenShots/Details.JPG" width="800" height="300">
 
 ---
 
 ### 6. Generate Bill:
-<img src="https://github.com/DJay2012/Electricity_Bill_System/ScreenShots/GenerateBill.JPG" width="400" height="700">
+<img src="ScreenShots/GenerateBill.JPG" width="400" height="700">
 
 ---
 
